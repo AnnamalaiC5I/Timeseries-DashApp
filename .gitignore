@@ -54,3 +54,6 @@ package-lock.json
 # Ignore Model files
 *.pkl
 *.zip
+
+#Ignore Notebook files
+*.ipynb
