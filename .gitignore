@@ -1,0 +1,56 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore user-specific IDE and text editor files
+.idea/
+.vscode/
+
+# Ignore package dependencies
+node_modules/
+*.npm
+yarn-error.log
+package-lock.json
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore compiled binary files
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files and directories
+*.tmp
+*.swp
+*.bak
+
+# Ignore credentials and secrets
+*.env
+*.secret
+*.key
+*.pem
+*.cert
+
+# Ignore generated documentation
+/build/
+
+# Ignore build and output directories
+/dist/
+/out/
+
+# Ignore Model files
+*.pkl
+*.zip
